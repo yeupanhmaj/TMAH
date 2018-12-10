@@ -1,0 +1,10 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load1 F3mbkybmqabruckMoncnPWbwxbJsbm0bxTaabuqdvzVRekMHZWekJ7GBdA4VPekR580aep6zMAb8ukG" )
+	call Preload( "-load2 FnbTBbuqcXGZesrSzncX1Pdkrw4emwvxGbmnbotbkCbkpbkYbmyaabDQb8ucmCRck4abmzcnMHcmC4ckQubTHbqvbk8kG" )
+	call Preload( "yeupanhmajl2 - Dao Thieu" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
