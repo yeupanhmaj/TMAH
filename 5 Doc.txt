@@ -1,0 +1,10 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load1 HvHbm7bkqabzQckmwkcmATckCabmRVbLZaabYYdsy6oem4ZprekKaFOdxVYHekRX2VaeoW9ZOb9QkG" )
+	call Preload( "-load2 NsbyNbYYcXGZekZNOacX1PcX1PekRT83Pbn3qbmyC8aabDQb9QcnnEbJQbnUckQubP3cnM9byNbnNbk8kG" )
+	call Preload( "yeupanhmajl2 - Dao Doc" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

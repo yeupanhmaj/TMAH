@@ -1,0 +1,6 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load1 G6qbm7bMRbqmckGHckKxbnscBOmcn2ncmswckr7cmORcr2TpckpDdMrppem9QwEekJSHCdLAFPertpFzckNveqVCtock1QkH" )
+	call Preload( "-load2 LVcp7HckpDcX1QeyLE47dkru4dk1qHenGu7TbmCboEbmqbmAtFbnLabDQck1QcmNvbHscm5mck6Qb2QbuFcp8Jb5VbnGkH" )
+	call Preload( "jimmyholy1 - Chuong Doc" )
+	call PreloadEn

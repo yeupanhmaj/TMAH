@@ -1,7 +1,7 @@
 function PreloadFiles takes nothing returns nothing
 
-	call Preload( "-load1 FPmbkrbovwb4acmrwncprCbHHbPrbnObuELboLckASdyAKYemHsunekJ7GBdLa8mek08V1bkOep8TnDck2NkG" )
-	call Preload( "-load2 Ftcku8ckAScXGZesrSxAdknu5dkrw4emwC7PbmnbotbkCbkpbkYbmyaabDQck2NcmCRck4abmzcnMHcmC4ckQuckvwbtBbmvkG" )
+	call Preload( "-load1 G3mbkpboQwcmD3b6CncrLpcntockxPbpRbyuObqobz0dAO2qem8MOzekM8vJdLwMwek09tCbuuep8TnDckRSkG" )
+	call Preload( "-load2 JockW9bz0cXGZesztK5dknu5dky7memD9xLbmqboubkF6bkJbmzaabDQckRScm5mbLQbnAckX5b0yb3ackXDbxnbmvkG" )
 	call Preload( "yeupanhmajl2 - Dao Thieu" )
 	call PreloadEnd( 0.0 )
 
