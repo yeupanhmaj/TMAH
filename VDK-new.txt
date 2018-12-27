@@ -1,0 +1,8 @@
+function PreloadFiles takes nothing returns nothing
+
+call Preload( "-load1 3Bzbm7eyY2ZAeo6yJufm40ETRdWtyzfm40OJ4fksqGuJckDGcnuseyY2X4ekJBvteyY2XzeONVKQcoZCdtPEUem8NVUekJ06PdK25DekZzA1aep1ERvbCLnp" )
+call Preload( "-load2 zZbsocoZCcXGZem1ZJwcX1Pdk1uFenOXFDvbpBbmCbkpUHaaqbCLkmnopqbspuunp" )
+call Preload( "lucimi999 - Kiem Vo" )
+call PreloadEnd( 0.0 )
+
+endfunction
