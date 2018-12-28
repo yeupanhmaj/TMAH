@@ -1,8 +1,10 @@
 function PreloadFiles takes nothing returns nothing
 
-call Preload( "-load1 3Bzbm7eyY2ZAeo6yJufm40ETRdWtyzfm40OJ4fksqGuJckDGcnuseyY2X4ekJBvteyY2XzeONVKQcoZCdtPEUem8NVUekJ06PdK25DekZzA1aep1ERvbCLnp" )
-call Preload( "-load2 zZbsocoZCcXGZem1ZJwcX1Pdk1uFenOXFDvbpBbmCbkpUHaaqbCLkmnopqbspuunp" )
-call Preload( "lucimi999 - Kiem Vo" )
-call PreloadEnd( 0.0 )
+	call Preload( "-load1 KDzbkUbEabkWbF7bSoTcyTTcn2mcq42boDbzzpbktbm6dBJ8Mem7oW1ekJ1FJdLwMremszP4bGCen5mUqckRmkG" )
+	call Preload( "-load2 JDcmumbm6dkOYQewWYZ6c13KdkC3oemUrquSbpzbkF7bkJbmzaabDQckRmbSVckP6bnAcku7b0yb3acmuNbJGbnnkG" )
+	call Preload( "yeupanhmajl2 - Kiem Vo" )
+	call PreloadEnd( 0.0 )
 
 endfunction
+
+
