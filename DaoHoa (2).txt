@@ -1,0 +1,10 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load1 J4ybkPbm2sckVDck3RocmSGb4ObDAbkVbFmaabzOdsy6Jek850YekKo5MdA4Vzev9HPmaen5ENxckHa6" )
+	call Preload( "-load2 JxbPHbzOcXGZemo0mMcX1Pdku5nemD1QAbmpbpybkEbmJbk0bmyb0nabDQckHacmFYcnr2ckvNcnr4cmZmckQubPOboobk86" )
+	call Preload( "tuymaydi - Dao Hoa" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
