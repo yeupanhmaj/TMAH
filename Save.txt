@@ -1,0 +1,10 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "-load1 GoFwbk7AcmxPb5oacmCAckuLbmubkxbo3aab7Cdsy6EekKp8xekJXqAdA4Vxev9HOWaenQAQOb4r6" )
+	call Preload( "-load2 L6bBHb7CcXGZekKJrqcX1PcX1PekKPOKbmnbpGbkC4bkYbmwb51abDQb4rcmCRcnMvbmzbFWcmC4bHubBLbm9bk86" )
+	call Preload( "tuymaydi - Kiem Doan" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
